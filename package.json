@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/JoshuaWise/lzz-gyp/issues"
   },
-  "homepage": "https://github.com/JoshuaWise/lzz-gyp#readme"
+  "homepage": "https://github.com/JoshuaWise/lzz-gyp#readme",
+  "dependencies": {
+    "which": "^1.3.0"
+  }
 }
